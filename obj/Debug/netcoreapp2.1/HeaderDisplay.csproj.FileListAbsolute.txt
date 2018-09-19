@@ -24,3 +24,29 @@ C:\Temp\HeaderDisplay\obj\Debug\netcoreapp2.1\HeaderDisplay.Views.pdb
 C:\Temp\HeaderDisplay\obj\Debug\netcoreapp2.1\HeaderDisplay.dll
 C:\Temp\HeaderDisplay\obj\Debug\netcoreapp2.1\HeaderDisplay.pdb
 C:\Temp\HeaderDisplay\obj\Debug\netcoreapp2.1\HeaderDisplay.csproj.CopyComplete
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\bin\Debug\netcoreapp2.1\HeaderDisplay.deps.json
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\bin\Debug\netcoreapp2.1\HeaderDisplay.runtimeconfig.json
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\bin\Debug\netcoreapp2.1\HeaderDisplay.runtimeconfig.dev.json
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\bin\Debug\netcoreapp2.1\HeaderDisplay.dll
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\bin\Debug\netcoreapp2.1\HeaderDisplay.pdb
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\bin\Debug\netcoreapp2.1\HeaderDisplay.Views.dll
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\bin\Debug\netcoreapp2.1\HeaderDisplay.Views.pdb
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.csprojAssemblyReference.cache
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.RazorAssemblyInfo.cache
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.RazorAssemblyInfo.cs
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.AssemblyInfoInputs.cache
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.AssemblyInfo.cs
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.TagHelpers.input.cache
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.TagHelpers.output.cache
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.RazorCoreGenerate.cache
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.RazorTargetAssemblyInfo.cache
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.RazorTargetAssemblyInfo.cs
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.Views.pdb
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.dll
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.pdb
+C:\Users\Holger\OneDrive - Jonkoping University\Avancerad Webbutveckling\HeaderDisplay\header_display\obj\Debug\netcoreapp2.1\HeaderDisplay.csproj.CopyComplete

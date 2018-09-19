@@ -11500,23 +11500,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administratör\\.nuget\\packages\\": {},
+    "C:\\Users\\Holger\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\HeaderDisplay\\HeaderDisplay.csproj",
+      "projectUniqueName": "c:\\Users\\Holger\\OneDrive - Jonkoping University\\Avancerad Webbutveckling\\HeaderDisplay\\header_display\\HeaderDisplay.csproj",
       "projectName": "HeaderDisplay",
-      "projectPath": "C:\\Temp\\HeaderDisplay\\HeaderDisplay.csproj",
-      "packagesPath": "C:\\Users\\Administratör\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\HeaderDisplay\\obj\\",
+      "projectPath": "c:\\Users\\Holger\\OneDrive - Jonkoping University\\Avancerad Webbutveckling\\HeaderDisplay\\header_display\\HeaderDisplay.csproj",
+      "packagesPath": "C:\\Users\\Holger\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Holger\\OneDrive - Jonkoping University\\Avancerad Webbutveckling\\HeaderDisplay\\header_display\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administratör\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Holger\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
