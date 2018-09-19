@@ -1,1 +1,32 @@
-<h1>Hej</h1>
+@model HeadersViewModel
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="index" asp-controller="home">
+            <div class="form-group">
+                <label for="exampleInputEmail1">URL</label>
+                <input type="text" class="form-control" id="url" name="url" placeholder="URL" value="@ViewBag.Url">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Exclude headers</label>
+                <input type="text" class="form-control" id="excludeHeaders" name="excludeHeaders" 
+                       placeholder="Comma separated list of custom headers to exclude" value="@ViewBag.Exclude">
+            </div>
+            <button type="submit" class="btn btn-default">Inspect</button>
+        </form>
+    </div>
+    @if (Model != null)
+    {
+        <div class="col-md-8">
+            <strong>Results</strong><br />
+            <table class="table table-striped">
+                @foreach (var header in Model.Headers)
+                {
+                    <tr>
+                        <td>@header.Key</td>
+                        <td>@header.Value</td>
+                    </tr>
+                }
+            </table>
+        </div>
+    }
+</div>
